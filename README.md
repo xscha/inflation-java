@@ -1,5 +1,7 @@
 # Inflation Project
 
+This project asks for the cost of an item, the number of years from now that the item will be purchased, and the rate of inflation. This program will output the estimated cost of the item after a period of time. 
+
 ````java
 import java.util.Scanner;
 public class inflation{
